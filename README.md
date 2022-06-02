@@ -14,14 +14,14 @@
 <hr>
 
 ### Languages 🛠
-[![My Skills](https://skillicons.dev/icons?i=nodejs,python,C++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,python,cpp,java)](https://skillicons.dev)
 
 ### Frameworks and Tools
-[![My Skills](https://skillicons.dev/icons?i=git,react,express,heroku,netlify,Google Colab, JupyterNotebok)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,react,express,heroku,netlify,eclipse,vscode,github)](https://skillicons.dev)
 
 
 ### Databases
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
 
 <hr>
 
