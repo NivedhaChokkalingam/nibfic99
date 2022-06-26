@@ -1,4 +1,4 @@
-### Hi there, I'm Nivedha 👋 <img src="https://komarev.com/ghpvc/?username=nibfic99&label=Profile%20views&color=0e75b6&style=flat" alt="nibfic99" /> 
+### Hi there, I'm N 👋 <img src="https://komarev.com/ghpvc/?username=nibfic99&label=Profile%20views&color=0e75b6&style=flat" alt="nibfic99" /> 
 	
 
 <hr>
